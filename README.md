@@ -1,2 +1,3 @@
 # RestSample
-A sample Rest Java project 
+A sample Rest Java project for testing
+
